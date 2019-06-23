@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b3260d5-f514-445f-a6f1-9762c62eb141" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeFactors.py" beforeDir="false" afterPath="$PROJECT_DIR$/primeFactors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,25 +22,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="18" />
+          <entry key="py" value="24" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="18" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="600" />
+          <entry key="Python Console" value="648" />
           <entry key="dummy" value="20" />
-          <entry key="py" value="5948" />
+          <entry key="py" value="7410" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="6548" />
+          <entry key="Python" value="8058" />
         </counts>
       </usages-collector>
     </session>
@@ -58,13 +50,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PE_011.py">
+        <entry file="file://$PROJECT_DIR$/PE_015.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -88,7 +77,6 @@
         <option value="$PROJECT_DIR$/PE_2.py" />
         <option value="$PROJECT_DIR$/PE_3.py" />
         <option value="$PROJECT_DIR$/PE_4.py" />
-        <option value="$PROJECT_DIR$/primeFactors.py" />
         <option value="$PROJECT_DIR$/PE_5.py" />
         <option value="$PROJECT_DIR$/PE_6.py" />
         <option value="$PROJECT_DIR$/PE_7.py" />
@@ -98,6 +86,13 @@
         <option value="$PROJECT_DIR$/primeSieve.py" />
         <option value="$PROJECT_DIR$/PE_10.py" />
         <option value="$PROJECT_DIR$/PE_011.py" />
+        <option value="$PROJECT_DIR$/primeFactors.py" />
+        <option value="$PROJECT_DIR$/PE_012.py" />
+        <option value="$PROJECT_DIR$/PE_13.py" />
+        <option value="$PROJECT_DIR$/PE_013_data.txt" />
+        <option value="$PROJECT_DIR$/PE_013.py" />
+        <option value="$PROJECT_DIR$/PE_014.py" />
+        <option value="$PROJECT_DIR$/PE_015.py" />
       </list>
     </option>
   </component>
@@ -145,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PE_011">
+  <component name="RunManager" selected="Python.PE_015">
     <configuration name="PE_011" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PE_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PE_012" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Eli\HelloWorld\PE_010.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PE_012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PE_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PE_013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Eli\HelloWorld\PE_009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PE_013.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="primeSeive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PE_014" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,7 +216,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Eli\HelloWorld\primeSieve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PE_014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="primeSieve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PE_015" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +237,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primeSieve.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PE_015.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,19 +247,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.PE_9" />
-      <item itemvalue="Python.primeSeive" />
-      <item itemvalue="Python.PE_10" />
-      <item itemvalue="Python.primeSieve" />
       <item itemvalue="Python.PE_011" />
+      <item itemvalue="Python.PE_012" />
+      <item itemvalue="Python.PE_013" />
+      <item itemvalue="Python.PE_014" />
+      <item itemvalue="Python.PE_015" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PE_015" />
+        <item itemvalue="Python.PE_014" />
+        <item itemvalue="Python.PE_013" />
+        <item itemvalue="Python.PE_012" />
         <item itemvalue="Python.PE_011" />
-        <item itemvalue="Python.PE_10" />
-        <item itemvalue="Python.primeSieve" />
-        <item itemvalue="Python.primeSeive" />
-        <item itemvalue="Python.PE_9" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +278,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,13 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primeFactors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PE_010.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -398,11 +387,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PE_011.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="41" column="42" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="42" />
+        <state relative-caret-position="338">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeFactors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE_012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE_13.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE_013_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE_013.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE_014.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PE_015.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

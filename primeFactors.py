@@ -1,5 +1,5 @@
 from math import sqrt
-
+# Returns dictionary of prime factors and powers
 
 def primeFactors(n):
     primefacs = {}
@@ -15,12 +15,12 @@ def primeFactors(n):
             if str(i) in primefacs:
                 primefacs[str(i)] += 1
             else:
-                primefacs[str(i)] = 1
+                primefacs[str(int(i))] = 1
             n //= i
     if n > 1:
         if str(n) in primefacs:
             primefacs[str(n)] += 1
         else:
-            primefacs[str(n)] = 1
+            primefacs[str(int(n))] = 1
 
     return primefacs
